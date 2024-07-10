@@ -173,15 +173,18 @@ flex-direction: column;
 justify-content: center;
 align-items: flex-start;
 padding: 0px; */
-    width: 390px;
+    width: 460px;
     height: 72px;
     color: rgba(13, 19, 33, 0.7);
     font-family: Azeret Mono;
     font-size: 18px;
     font-weight: 700;
-    line-height: 36px;
+    line-height: 30px;
     letter-spacing: 0%;
     text-align: left;
+    justify-content: left;
+    display: flex;
+    flex-direction: column;
 }
 
 .iwilldo-section-description {
@@ -192,6 +195,7 @@ padding: 0px; */
     justify-content: center;
     align-items: flex-start;
     padding: 0px;
+    
 
 }
 
@@ -270,10 +274,11 @@ padding: 0px; */
     margin-top: 20px;
     padding: 0px;
     margin-right: 10;
+    margin-top: 20px;
 }
 
 .iwillcode-section-text-title {
-    width: 390px;
+    /* width: 460px;
     height: 72px;
     color: rgba(13, 19, 33, 0.7);
     font-family: Azeret Mono;
@@ -281,7 +286,19 @@ padding: 0px; */
     font-weight: 700;
     line-height: 36px;
     letter-spacing: 0%;
+    text-align: left; */
+    width: 600px;
+    height: 72px;
+    color: rgba(13, 19, 33, 0.7);
+    font-family: Azeret Mono;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0%;
     text-align: left;
+    justify-content: left;
+    display: flex;
+    flex-direction: column;
 }
 
 
