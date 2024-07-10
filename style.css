@@ -207,3 +207,120 @@ letter-spacing: 0%;
 text-align: left;
 
 }
+.iwillcode-section-container
+{
+display: flex;
+width: 850px;
+height: 240px;
+flex-direction: row;
+justify-content: space-around;
+margin-top: 20px;
+padding: 0px;
+}
+.iwillcode-section-text-title
+{
+width: 390px;
+height: 72px;
+color: rgba(13, 19, 33, 0.7);
+font-family: Azeret Mono;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+
+
+.inspiration-section-container
+{
+width: 1140px;
+height: 777px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+}
+.inspiration-section-title
+{
+width: 852px;
+height: 39px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+}
+.inspiration-section-description
+{
+width: 852px;
+height: 52px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+.inspiration-video
+{
+width: 1076px;
+height: 550px;
+border-radius: 16px;
+
+background: url(Jhankar);
+}
+.mytarget-section-text
+{
+width: 852px;
+height: 115px;
+align-items: center;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+
+}
+.mytarget-section-title
+{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+}
+.mytarget-section-description
+{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+
+
+
+
+.mytarget-section-img
+{
+display: flex;
+}
+.target-1
+{
+border-radius: 16px;
+
+background: rgba(255, 76, 30, 0.05);
+width: 364px;
+height: 300px;
+}
+.img-1
+{
+
+}
